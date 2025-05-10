@@ -3,7 +3,7 @@ package com.tka;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("the kiran academy");
+		System.out.println("welcome in git.");
 
 	}
 
